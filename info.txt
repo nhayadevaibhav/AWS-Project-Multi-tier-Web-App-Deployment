@@ -1,0 +1,6 @@
+FrontendSG: sg-0eb7968b0110612ca
+BackendSG : sg-07a421337af997975
+DBSG      : sg-02ef3c437ee5b0e08
+AMI ID    : ami-0e12ffc2dd465f6e4
+ALB ARN   : arn:aws:elasticloadbalancing:ap-south-1:475432297908:loadbalancer/app/MultiTierALB/1fd6e9e31422c6a5
+DNS NAME  : MultiTierALB-1149423831.ap-south-1.elb.amazonaws.com
